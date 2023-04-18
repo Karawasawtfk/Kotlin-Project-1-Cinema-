@@ -5,7 +5,7 @@ Basically it's a very simple cinema model.
 
 1. You define the size of the cinema hall (number of rows and seats).
 2. Then you are presented to a menu with 4 possible options:
-  - print the visual representation of the cinema (each seat is printed as a 'S' or 'B' symbol (B is used for booked seats);
+  - print the visual representation of the cinema (each seat is printed as an 'S' or 'B' symbol (B is used for booked seats);
   - buy a ticket by specifying its row and number. If the seat is already booked, you are offered to choose another seat;
   - print some statistics. Just print it, it speaks for itself;
   - exit (abort the execution).
